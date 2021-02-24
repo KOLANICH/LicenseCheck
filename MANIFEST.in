@@ -1,0 +1,3 @@
+include UNLICENSE
+global-include *.md
+global-include *.txt
